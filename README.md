@@ -81,12 +81,12 @@ src/main/java/com/pen
 
 ### **1. Compile**
 ```bash
-javac -d out --source-path src/main/java src/main/java/com/snakeladder/Main.java
+javac -d out --source-path src/main/java src/main/java/com/pen/Main.java
 ```
 
 ### **2. Run**
 ```bash
-java -cp out com.snakeladder.Main
+java -cp out com.pen.Main
 ```
 
 > **Note:**  
